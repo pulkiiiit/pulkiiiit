@@ -1,7 +1,7 @@
 ## Hi, I'm Pulkit 💫
 
 🧠 Computer science student at Dr APJ Abdul Kalam Technical University<br/>
-🌻 Currently learning Fullstack<br/>
+🌻 Currently learning Fullstack Web devlopment<br/>
 🪛 I like to create fun little websites<br>
 📷 I also love to document my journey along the way on [Instagram](https://www.instagram.com/that_bandana_guy/)
 
